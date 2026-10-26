@@ -51,3 +51,11 @@
 23:43:41.182 [main] INFO  api.test.UserTests - ***************User updated***********************
 23:43:41.189 [main] INFO  api.test.UserTests - ***************Deleting User***********************
 23:43:42.389 [main] INFO  api.test.UserTests - ***************Deleted User***********************
+01:30:07.290 [main] INFO  api.test.UserTests - ***************Creating user***********************
+01:30:10.036 [main] INFO  api.test.UserTests - ***************User is created***********************
+01:30:10.044 [main] INFO  api.test.UserTests - ***************Reading User Info***********************
+01:30:11.193 [main] INFO  api.test.UserTests - ***************User Info is displayedr***********************
+01:30:11.194 [main] INFO  api.test.UserTests - ***************Updating User***********************
+01:30:13.506 [main] INFO  api.test.UserTests - ***************User updated***********************
+01:30:13.509 [main] INFO  api.test.UserTests - ***************Deleting User***********************
+01:30:14.681 [main] INFO  api.test.UserTests - ***************Deleted User***********************
